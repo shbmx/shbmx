@@ -14,12 +14,14 @@ $ whoami
 - 🕸️ I talk to Neo4j more than I talk to people (it doesn't judge my queries)
 - 🐘 PostgreSQL whisperer — yes, we have a relationship
 - 🌴 Based in Goa — yes, I code from the beach (jk, 🏖️ + ⌨️ = 💀 sand everywhere)
+- 🦀 Learning Rust — because "fearless concurrency" sounded cool (the borrow checker disagrees)
+- 📲 Building [Outfii](https://github.com/shubham030) — because my wardrobe needed an engineering solution
 - 🎯 2026 goal: Write code that doesn't summon demons at 3 AM
 
 ## 🛠️ Tech Stack (a.k.a. things I Google daily)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,docker,kubernetes,git,github&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,rust,flutter,dart,postgres,docker,kubernetes,git,github&theme=dark&perline=9" alt="Tech Stack" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
@@ -49,6 +51,8 @@ $ whoami
 ## 🎯 Current Status
 
 ```yaml
+Building:        Outfii — a fashion app (yes, an engineer doing fashion)
+Learning:        Rust — fighting the borrow checker one lifetime at a time
 Refactoring:     code I wrote 2 weeks ago and don't recognize anymore
 Coffee intake:   concerning
 Bugs created:    3
@@ -72,6 +76,7 @@ Working from:    somewhere with wifi and regrets
   <img src="https://img.shields.io/badge/Kubernetes_YAML-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s YAML" />
   <img src="https://img.shields.io/badge/More_YAML-000000?style=flat-square&logo=yaml&logoColor=white" alt="More YAML" />
   <img src="https://img.shields.io/badge/Regex-000000?style=flat-square&logo=regex&logoColor=white" alt="Regex" />
+  <img src="https://img.shields.io/badge/Borrow_Checker-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Borrow Checker" />
 </p>
 
 ## 🎲 Random Dev Wisdom
