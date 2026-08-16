@@ -15,7 +15,7 @@ $ whoami
 - 🐘 PostgreSQL whisperer — yes, we have a relationship
 - 🌴 Based in Goa — yes, I code from the beach (jk, 🏖️ + ⌨️ = 💀 sand everywhere)
 - 🦀 Learning Rust — because "fearless concurrency" sounded cool (the borrow checker disagrees)
-- 📲 Building [Outfii](https://github.com/shubham030) — because my wardrobe needed an engineering solution
+- 📲 Building [Outfii](https://github.com/shbmx) — because my wardrobe needed an engineering solution
 - 🎯 2026 goal: Write code that doesn't summon demons at 3 AM
 
 ## 🛠️ Tech Stack (a.k.a. things I Google daily)
@@ -31,21 +31,21 @@ $ whoami
 *Just like my production bugs eat my weekends*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubham030/shubham030/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shbmx/shbmx/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 📊 Stats (Proof That I Touch Grass... Rarely)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubham030&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats-eight.vercel.app?user=shubham030&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" /></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubham030&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shbmx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats-eight.vercel.app?user=shbmx&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shbmx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham030&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=f7768e&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shbmx&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=f7768e&area=true" alt="Activity Graph" />
 </p>
 
 ## 🎯 Current Status
@@ -101,7 +101,7 @@ Working from:    somewhere with wifi and regrets
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham030&color=7aa2f7&style=flat-square&label=victims+who+saw+this" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shbmx&color=7aa2f7&style=flat-square&label=victims+who+saw+this" alt="Profile Views" />
 </p>
 
 <p align="center">
